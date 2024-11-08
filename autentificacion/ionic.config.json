@@ -1,0 +1,7 @@
+{
+  "name": "autentificacion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
