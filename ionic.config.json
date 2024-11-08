@@ -1,7 +1,0 @@
-{
-  "name": "firebase_app",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
